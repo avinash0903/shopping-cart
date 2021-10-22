@@ -7,7 +7,7 @@ function App() {
         <a href="/">React Shopping Cart</a>
       </header>
       <main>Product List</main>
-      <footer>All Rights Reserved..</footer>
+      <footer>@2021 All Rights Reserved..</footer>
     </div>
   );
 }
